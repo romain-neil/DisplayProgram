@@ -1,0 +1,52 @@
+{
+	"height": 720,
+	"width": 480,
+	"slides": [
+		{
+			"id": 0,
+			"duration": 5,
+			"elements": [
+				{
+					"type": 0,
+					"position": [
+						{"x": 10, "y": 10}
+					],
+					"size": 72,
+					"text": "Message test"
+				},
+				{
+					"type": 0,
+					"position": [
+						{"x": 10, "y": 82}
+					],
+					"size": 24,
+					"text": "https://site-web.fr/"
+				}
+			]
+		},
+		{
+			"id": 1,
+			"duration": 5,
+			"elements": [
+				{
+					"type": 0,
+					"position": [
+						{"x": 20, "y": 20}
+					],
+					"size": 32,
+					"text": "Un autre message test"
+				},
+				{
+					"type": 0,
+					"position": [
+						{"x": 20, "y": 50}
+					],
+					"size": 24,
+					"text": "info@ch-saintnazaire.fr"
+				}
+			]
+		}
+	]
+}
+
+
